@@ -2,7 +2,7 @@
 
 > Subject Code: ICT 4302  
 > Faculty Name: Manjula C Belavagi, Deptt. of Information and Communication Technology  
-> [Contact her here](samplelink)
+> [Contact her here](mailto:manjula.cb@manipal.edu)
 
 References
 - [Robbins J.N., Learning Web Design (4e), O'Reilly Media, Reprint 2017.](https://isbnsearch.org/isbn/9781449319274)

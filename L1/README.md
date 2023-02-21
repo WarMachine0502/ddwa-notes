@@ -31,3 +31,11 @@
 In order for a computer to be part of the Web, it must be running special web server software that allows it to handle Hypertext Transfer Protocol transactions.
 
 Web Servers are also called "HTTP Servers."
+
+#### DNS Server
+
+- Every computer and device (modem, router, smartphone, cars, etc.) connected to the Internet is assigned a unique numeric Internet Protocol (IP) address.
+
+- For example, the computer that hosts [oreilly.com](oreilly.com) has the IP address [64:ff9b::c71b:9140](http://[64:ff9b::c71b:9140]/).
+
+- The numeric IP address is useful
