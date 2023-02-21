@@ -1,6 +1,6 @@
-## L1 - Introduction
+# L1 - Introduction
 
-An explanation of the web as it relates to the internet
+#### An Explanation of the Web with relation to the Internet
 
 - The Internet is a network of connected computers.
 
@@ -20,9 +20,9 @@ An explanation of the web as it relates to the internet
 
 - The Web uses a protocol called `HTTP (Hypertext Transfer Protocol)`.
 
-A Server
+#### A Server
 
-- is the Software(not the computer itself).
+- is the software(not the computer itself).
 
 - allows the computer to communicate with other computers.
 

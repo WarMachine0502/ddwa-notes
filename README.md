@@ -5,20 +5,20 @@
 > [Contact her here](samplelink)
 
 References
-- [Robbins J.N., Learning Web Design (4e), O’reillyMedia, reprint 2017.]()
+- [Robbins J.N., Learning Web Design (4e), O'Reilly Media, Reprint 2017.](https://isbnsearch.org/isbn/9781449319274)
 
-- [Harris A., HTML 5 and CSS 3: All in One for Dummies (3e), Wiley Brand, reprint 2017.]()
+- [Harris A., HTML 5 and CSS 3: All in One for Dummies (3e), Wiley Brand, Reprint 2017.](https://isbnsearch.org/isbn/9781118289389)
 
-- [Nixon R., Learning PHP, MySQL, JavaScript with JqueryCSS and HTML5 (4e), O’reillyMedia, reprint 2017.]()
+- [Nixon R., Learning PHP, MySQL, JavaScript with JqueryCSS and HTML5 (4e), O'Reilly Media, Reprint 2017.](https://isbnsearch.org/isbn/9789352130153)
 
 ## Table of Contents  
 
-|Lesson No.|Lesson Name|Link|
-|----|----|----|
-|L1|Introduction|[sample link](samplelink)|
-|L2|HTML|[sample link](samplelink)|
-|L3|HTML|[sample link](samplelink)|
-|L4|HTML|[sample link](samplelink)|
-|L5|HTML Images|[sample link](samplelink)|
-|L6|HTML Tables|[sample link](samplelink)|
-|L7|HTML Forms|[sample link](samplelink)|
+|Lesson No.|Lesson Name|
+|----|----|
+|L1|[Introduction](https://github.com/WarMachine0502/ddwa-notes/tree/main/L1)|
+|L2|HTML|
+|L3|HTML|
+|L4|HTML|
+|L5|HTML Images|
+|L6|HTML Tables|
+|L7|HTML Forms|
