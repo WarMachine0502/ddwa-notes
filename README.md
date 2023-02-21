@@ -1,7 +1,7 @@
 # Design and Development of Web Applications  
 
-> Subject Code: ICT 4302
-> Faculty Name: Manjula C Belavagi, Deptt. of Information and Communication Technology
+> Subject Code: ICT 4302  
+> Faculty Name: Manjula C Belavagi, Deptt. of Information and Communication Technology  
 > [Contact her here](samplelink)
 
 References
